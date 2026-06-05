@@ -1,0 +1,20 @@
+JARVIS BACKUP 1
+
+Completed:
+- Voice Input
+- Voice Output
+- Browser Automation
+- Study Tracker
+- JSON Storage
+- Progress Reports
+- Subject Ranking
+- Study Suggestions
+
+Date:02-06-2026
+
+
+TO DO LIST (03-06-2026)
+
+
+1.FIX ALL THE ISSSUES AS OF NOW => DONE
+2.TESTING EACH AND EVERY FEATURE AS OF NOW ONE BY ONE

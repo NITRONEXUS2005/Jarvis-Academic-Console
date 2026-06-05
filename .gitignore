@@ -1,0 +1,8 @@
+# Ignore local database states
+memory.json
+study_history.json
+todo.json
+
+# Ignore temporary python cache files
+__pycache__/
+*.pyc
